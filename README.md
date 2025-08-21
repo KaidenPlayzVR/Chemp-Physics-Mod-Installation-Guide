@@ -1,7 +1,7 @@
 # Chemp Physics Mod Installation Guide
 A non-official guide on how to install mods for Chemp Physics V1.7+
 
-![\(Couldn't load image)](https://i.imgur.com/UoT8e0G.png)
+![\(Couldn't load image)](https://media.discordapp.net/attachments/1396162132403425330/1408145419976052756/chemp2560MODS.png?ex=68a8ad1e&is=68a75b9e&hm=fb37540e845ec2e07c279af7af8cfa3cc506c1ec58e84dbb469f27c0d8cdaf96&=&format=webp&quality=lossless&width=1635&height=920)
 
 ## Spawnable Mods
 To install a spawnable mod, you will need **at least one** of the following programs:
