@@ -1,6 +1,8 @@
 # Chemp Physics Mod Installation Guide
 A non-official guide on how to install mods for Chemp Physics V1.7+
 
+![\(Couldn't load image)](https://i.imgur.com/UoT8e0G.png)
+
 ## Spawnable Mods
 To install a spawnable mod, you will need **at least one** of the following programs:
 - [CX File Explorer (Standalone Quest)](#using-cx-file-explorer)
